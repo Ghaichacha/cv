@@ -1,0 +1,33 @@
+
+
+header{
+     display: flex;
+     justify-content: space-around;
+     background-color: rgb(154, 196, 196);
+}
+
+.haut{
+  width: 20%;
+  border-radius: 20%;
+}
+.conteneur{
+  display: flex;
+  justify-content: space-around;
+  background-color: darksalmon;
+ 
+ 
+}
+@media screen and(max-widht:700px) {
+  
+  .conteneur{
+ 
+
+
+  }
+  header{
+   
+    width: 100%;
+padding: 0%;
+
+ }
+
